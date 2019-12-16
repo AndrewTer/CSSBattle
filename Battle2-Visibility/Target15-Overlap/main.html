@@ -1,0 +1,40 @@
+<div></div>
+<style>
+  * {
+    background: #09042A;
+  }
+  
+  div {
+    width: 150px;
+    height: 150px;
+    margin: 75 67;
+    background: #7B3F61;
+    border-radius: 90%;
+  }
+  
+  div:before {
+    content: "";
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 175;
+    background: #E78481;
+    border-radius: 90%;
+  }
+  
+  div:after {
+    content: "";
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 160;
+    top: 110;
+    background: #09042A;
+    border-radius: 95% 0;
+    transform: rotate(135deg);
+  }
+</style>
+
+<!--Short version:
+<div></div><style>*{background:#09042A}div{width:150px;height:150px;margin:75 67;background:#7B3F61;border-radius:90%}div:before{content:"";width:150px;height:150px;position:absolute;left:175;background:#E78481;border-radius:90%}div:after{content:"";width:80px;height:80px;position:absolute;left:160;top:110;background:#09042A;border-radius:95% 0;transform:rotate(135deg)}</style>
+-->
