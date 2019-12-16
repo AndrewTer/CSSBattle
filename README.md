@@ -25,6 +25,9 @@
 #### Target #9 - Tesseract
 ![alt-текст](https://cssbattle.dev/targets/9.png "Tesseract")
 
+#### Target #10 - Cloaked Spirits
+![alt-текст](https://cssbattle.dev/targets/10.png "Cloaked Spirits")
+
 #### Target #11 - Eye of Sauron
 ![alt-текст](https://cssbattle.dev/targets/11.png "Eye of Sauron")
 
