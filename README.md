@@ -6,3 +6,6 @@
 
 #### Target #2 - Carrom
 ![alt-текст](https://cssbattle.dev/targets/2.png "Carrom")
+
+#### Target #3 - Push Button
+![alt-текст](https://cssbattle.dev/targets/3.png "Push Button")
