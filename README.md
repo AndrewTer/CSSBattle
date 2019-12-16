@@ -22,5 +22,6 @@
 #### Target #7 - Leafy Trail
 ![alt-текст](https://cssbattle.dev/targets/7.png "Leafy Trail")
 
-
+#### Target #11 - Eye of Sauron
+![alt-текст](https://cssbattle.dev/targets/11.png "Eye of Sauron")
 
