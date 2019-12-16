@@ -9,3 +9,7 @@
 
 #### Target #3 - Push Button
 ![alt-текст](https://cssbattle.dev/targets/3.png "Push Button")
+
+#### Target #4 - Ups n Downs
+![alt-текст](https://cssbattle.dev/targets/4.png "Ups n Downs")
+
