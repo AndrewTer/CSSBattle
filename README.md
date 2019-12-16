@@ -15,3 +15,7 @@
 
 #### Target #5 - Acid Rain
 ![alt-текст](https://cssbattle.dev/targets/5.png "Acid Rain")
+
+#### Target #6 - Missing Slice
+![alt-текст](https://cssbattle.dev/targets/6.png "Missing Slice")
+
