@@ -31,6 +31,9 @@
 #### Target #11 - Eye of Sauron
 ![alt-текст](https://cssbattle.dev/targets/11.png "Eye of Sauron")
 
+#### Target #12 - Wiggly Moustache
+![alt-текст](https://cssbattle.dev/targets/12.png "Wiggly Moustache")
+
 ## Battle #2 - Visibility
 #### Target #13 - Totally Triangle
 ![alt-текст](https://cssbattle.dev/targets/13.png "Totally Triangle")
