@@ -13,3 +13,5 @@
 #### Target #4 - Ups n Downs
 ![alt-текст](https://cssbattle.dev/targets/4.png "Ups n Downs")
 
+#### Target #5 - Acid Rain
+![alt-текст](https://cssbattle.dev/targets/5.png "Acid Rain")
