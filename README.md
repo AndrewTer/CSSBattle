@@ -61,6 +61,8 @@
 #### Target #26 - Smiley
 ![alt-текст](https://cssbattle.dev/targets/26.png "Smiley")
 
+#### Target #27 - Lock Up
+![alt-текст](https://cssbattle.dev/targets/27.png "Lock Up")
 
 
 
