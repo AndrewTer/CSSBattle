@@ -76,8 +76,9 @@
 #### Target #28 - Cups & Balls
 ![alt-текст](https://cssbattle.dev/targets/28.png "Cups & Balls")
 
-
-
+## Battle #5 - Inline
+#### Target #29 - Suffocate
+![alt-текст](https://cssbattle.dev/targets/29.png "Suffocate")
 
 
 
