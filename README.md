@@ -51,6 +51,12 @@
 #### Target #20 - Ticket
 ![alt-текст](https://cssbattle.dev/targets/20.png "Ticket")
 
+## Battle #4 - Display
+#### Target #22 - Cloud
+![alt-текст](https://cssbattle.dev/targets/22.png "Cloud")
+
+
+
 
 
 
