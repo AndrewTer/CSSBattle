@@ -58,6 +58,9 @@
 #### Target #24 - Switches
 ![alt-текст](https://cssbattle.dev/targets/24.png "Switches")
 
+#### Target #25 - Blossom
+![alt-текст](https://cssbattle.dev/targets/25.png "Blossom")
+
 #### Target #26 - Smiley
 ![alt-текст](https://cssbattle.dev/targets/26.png "Smiley")
 
