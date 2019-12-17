@@ -22,6 +22,9 @@
 #### Target #7 - Leafy Trail
 ![alt-текст](https://cssbattle.dev/targets/7.png "Leafy Trail")
 
+#### Target #8 - Forking Crazy
+![alt-текст](https://cssbattle.dev/targets/8.png "Forking Crazy")
+
 #### Target #9 - Tesseract
 ![alt-текст](https://cssbattle.dev/targets/9.png "Tesseract")
 
