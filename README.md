@@ -80,6 +80,10 @@
 #### Target #29 - Suffocate
 ![alt-текст](https://cssbattle.dev/targets/29.png "Suffocate")
 
+#### Target #30 - Horizon
+![alt-текст](https://cssbattle.dev/targets/30.png "Horizon")
+
+
 
 
 
