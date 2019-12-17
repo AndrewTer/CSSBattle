@@ -87,6 +87,8 @@
 #### Target #31 - Equals
 ![alt-текст](https://cssbattle.dev/targets/31.png "Conic")
 
+#### Target #32 - Band-aid
+![alt-текст](https://cssbattle.dev/targets/32.png "Band-aid")
 
 
 
