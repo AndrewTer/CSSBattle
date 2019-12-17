@@ -64,7 +64,8 @@
 #### Target #27 - Lock Up
 ![alt-текст](https://cssbattle.dev/targets/27.png "Lock Up")
 
-
+#### Target #28 - Cups & Balls
+![alt-текст](https://cssbattle.dev/targets/28.png "Cups & Balls")
 
 
 
