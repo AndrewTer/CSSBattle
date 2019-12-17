@@ -44,5 +44,8 @@
 #### Target #15 - Overlap
 ![alt-текст](https://cssbattle.dev/targets/15.png "Overlap")
 
+#### Target #16 - Eye of the Tiger
+![alt-текст](https://cssbattle.dev/targets/16.png "Eye of the Tiger")
+
 
 
