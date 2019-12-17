@@ -55,6 +55,9 @@
 #### Target #22 - Cloud
 ![alt-текст](https://cssbattle.dev/targets/22.png "Cloud")
 
+#### Target #23 - Boxception
+![alt-текст](https://cssbattle.dev/targets/23.png "Boxception")
+
 #### Target #24 - Switches
 ![alt-текст](https://cssbattle.dev/targets/24.png "Switches")
 
