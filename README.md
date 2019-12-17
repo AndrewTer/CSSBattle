@@ -83,7 +83,9 @@
 #### Target #30 - Horizon
 ![alt-текст](https://cssbattle.dev/targets/30.png "Horizon")
 
-
+## Battle #6 - Conic
+#### Target #31 - Equals
+![alt-текст](https://cssbattle.dev/targets/31.png "Conic")
 
 
 
