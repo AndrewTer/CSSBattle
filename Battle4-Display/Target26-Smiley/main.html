@@ -1,0 +1,46 @@
+<div></div>
+<style>
+  * {
+    background: #6592CF;
+  }
+  
+  div {
+    content: "";
+    width: 80px;
+    height: 80px;
+    border: 20px solid #060F55;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    transform: rotate(-45deg);
+    border-radius: 90%;
+    margin: 140 0 0 132;
+  }
+  
+  div:before {
+    content: "";
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    border: 20px solid #060F55;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    transform: rotate(180deg);
+    border-radius: 90%;
+    bottom: 120;
+    right: -20;
+  }
+  
+  div:after {
+    content: "";
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    border: 20px solid #060F55;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    transform: rotate(180deg);
+    border-radius: 90%;
+    top: -20;
+    left: 120;
+  }
+</style>
