@@ -1,0 +1,45 @@
+<div><p></p></div>
+<style>
+  * {
+    background: #1A4341;
+  }
+  
+  div {
+    width: 205px;
+    height: 155px;
+    background: #F3AC3C;
+    margin: -10px;
+    border-radius: 0 0 120px;
+  }
+  
+  div:before {
+    content: "";
+    width: 205px;
+    height: 155px;
+    background: #F3AC3C;
+    position: absolute;
+    border-radius: 0 120px 0 0;
+    bottom: 0;
+  }
+  
+  div:after {
+    content: "";
+    width: 205px;
+    height: 155px;
+    background: #F3AC3C;
+    position: absolute;
+    border-radius: 120px 0 0;
+    bottom: 0;
+    right: 0;
+  }
+  
+  p {
+    width: 205px;
+    height: 155px;
+    background: #F3AC3C;
+    position: absolute;
+    border-radius: 0 0 0 120px;
+    top: -16;
+    right: 0;
+  }
+</style>
