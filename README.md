@@ -121,6 +121,9 @@
 #### Target #40 - Letter B
 ![alt-текст](https://cssbattle.dev/targets/40.png "Letter B")
 
+#### Target #41 - Fox Head
+![alt-текст](https://cssbattle.dev/targets/41.png "Fox Head")
+
 ## Battle #8 - Transition
 ### Target #42 - Baby
 ![alt-текст](https://cssbattle.dev/targets/42.png "Baby")
