@@ -41,6 +41,9 @@
 #### Target #13 - Totally Triangle
 ![alt-текст](https://cssbattle.dev/targets/13.png "Totally Triangle")
 
+#### Target #14 - Web Maker Logo
+![alt-текст](https://cssbattle.dev/targets/14.png "Web Maker Logo")
+
 #### Target #15 - Overlap
 ![alt-текст](https://cssbattle.dev/targets/15.png "Overlap")
 
