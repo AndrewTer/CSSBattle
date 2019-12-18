@@ -118,6 +118,9 @@
 #### Target #38 - Not Simply Square
 ![alt-текст](https://cssbattle.dev/targets/38.png "Not Simply Square")
 
+#### Target #39 - Sunset
+![alt-текст](https://cssbattle.dev/targets/39.png "Sunset")
+
 #### Target #40 - Letter B
 ![alt-текст](https://cssbattle.dev/targets/40.png "Letter B")
 
