@@ -91,6 +91,9 @@
 ![alt-текст](https://cssbattle.dev/targets/32.png "Band-aid")
 
 ## Battle #7 - Backface
+#### Target #33 - Birdie
+![alt-текст](https://cssbattle.dev/targets/33.png "Birdie")
+
 #### Target #34 - Christmas Tree
 ![alt-текст](https://cssbattle.dev/targets/34.png "Christmas Tree")
 
