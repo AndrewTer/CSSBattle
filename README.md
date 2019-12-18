@@ -97,6 +97,9 @@
 #### Target #34 - Christmas Tree
 ![alt-текст](https://cssbattle.dev/targets/34.png "Christmas Tree")
 
+#### Target #35 - Ice Cream
+![alt-текст](https://cssbattle.dev/targets/35.png "Ice Cream")
+
 #### Target #36 - Interleaved
 ![alt-текст](https://cssbattle.dev/targets/36.png "Interleaved")
 
