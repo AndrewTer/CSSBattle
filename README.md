@@ -97,6 +97,9 @@
 #### Target #34 - Christmas Tree
 ![alt-текст](https://cssbattle.dev/targets/34.png "Christmas Tree")
 
+#### Target #36 - Interleaved
+![alt-текст](https://cssbattle.dev/targets/36.png "Interleaved")
+
 #### Target #37 - Tunnel
 ![alt-текст](https://cssbattle.dev/targets/37.png "Tunnel")
 
