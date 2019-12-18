@@ -1,0 +1,79 @@
+<div id="x1"><p></p></div><div id="x2"><p></p></div>
+<style>
+  * {
+    background: #5C434C;
+  }
+  
+  div {
+    width: 80px;
+    height: 80px;
+    background: #F09462;
+    border-radius: 90px 0 0 0;
+  }
+  
+  div:before {
+    content: "";
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background: #F5D6B4;
+    border-radius: 90px 0 0 0;
+    top: 110;
+  }
+  
+  div:after {
+    content: "";
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background: #F09462;
+    border-radius: 90px 0 0 0;
+    top: 210;
+  }
+  
+  #x1 {
+    margin: 10 0 0 2;
+  }
+  
+  #x2 {
+    margin: -80 0 0 202;
+  }
+  
+  p {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background: #F5D6B4;
+    border-radius: 90px 0 0 0;
+    top: -6;
+  }
+  
+  p:before {
+    content: "";
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background: #F09462;
+    border-radius: 90px 0 0 0;
+    top: 100;
+  }
+  
+  p:after {
+    content: "";
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background: #F5D6B4;
+    border-radius: 90px 0 0 0;
+    top: 200;
+  }
+  
+  #x1 p {
+    left: 110;
+  }
+  
+  #x2 p {
+    left: 310;
+  }
+  
+</style>
