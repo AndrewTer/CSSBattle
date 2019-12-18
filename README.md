@@ -122,6 +122,9 @@
 ![alt-текст](https://cssbattle.dev/targets/40.png "Letter B")
 
 ## Battle #8 - Transition
+### Target #42 - Baby
+![alt-текст](https://cssbattle.dev/targets/42.png "Baby")
+
 #### Target #43 - Wrench
 ![alt-текст](https://cssbattle.dev/targets/43.png "Wrench")
 
