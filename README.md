@@ -113,6 +113,8 @@
 #### Target #45 - Magical Tree
 ![alt-текст](https://cssbattle.dev/targets/45.png "Magical Tree")
 
+#### Target #46 - Mountains
+![alt-текст](https://cssbattle.dev/targets/46.png "Mountains")
 
 
 
