@@ -121,6 +121,7 @@
 #### Target #40 - Letter B
 ![alt-текст](https://cssbattle.dev/targets/40.png "Letter B")
 
+## Battle #8 - Transition
 #### Target #44 - Stripes
 ![alt-текст](https://cssbattle.dev/targets/44.png "Stripes")
 
