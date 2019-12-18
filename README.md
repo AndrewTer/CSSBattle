@@ -106,6 +106,9 @@
 #### Target #37 - Tunnel
 ![alt-текст](https://cssbattle.dev/targets/37.png "Tunnel")
 
+#### Target #38 - Not Simply Square
+![alt-текст](https://cssbattle.dev/targets/38.png "Not Simply Square")
+
 #### Target #40 - Letter B
 ![alt-текст](https://cssbattle.dev/targets/40.png "Letter B")
 
