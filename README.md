@@ -131,7 +131,7 @@
 ![alt-текст](https://cssbattle.dev/targets/41.png "Fox Head")
 
 ## Battle #8 - Transition
-### Target #42 - Baby
+#### Target #42 - Baby
 ![alt-текст](https://cssbattle.dev/targets/42.png "Baby")
 
 #### Target #43 - Wrench
