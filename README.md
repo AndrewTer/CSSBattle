@@ -50,6 +50,9 @@
 #### Target #16 - Eye of the Tiger
 ![alt-текст](https://cssbattle.dev/targets/16.png "Eye of the Tiger")
 
+#### Target #17 - Fidget Spinner
+![alt-текст](https://cssbattle.dev/targets/17.png "Fidget Spinner")
+
 #### Target #18 - Matrix
 ![alt-текст](https://cssbattle.dev/targets/18.png "Matrix")
 
