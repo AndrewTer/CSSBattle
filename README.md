@@ -100,7 +100,8 @@
 #### Target #37 - Tunnel
 ![alt-текст](https://cssbattle.dev/targets/37.png "Tunnel")
 
-
+#### Target #40 - Letter B
+![alt-текст](https://cssbattle.dev/targets/40.png "Letter B")
 
 
 
