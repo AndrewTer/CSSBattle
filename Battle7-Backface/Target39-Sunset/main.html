@@ -1,0 +1,108 @@
+<div><p id="x1"></p><p id="x2"></p><p id="x3"></p></div>
+<style>
+  * {
+    background: #1A4341;
+  }
+  
+  div {
+    width: 247px;
+    height: 247px;
+    background: #F3AC3C;
+    border-radius: 120px;
+    margin: 25 0 0 70;
+  }
+  
+  div:before {
+    content: "";
+    position: absolute;
+    width: 260px;
+    height: 20px;
+    background: #1A4341;
+    top: 120;
+    left: 70;
+    z-index: 1;
+  }
+  
+  div:after {
+    content: "";
+    position: absolute;
+    width: 260px;
+    height: 20px;
+    background: #1A4341;
+    top: 160;
+    left: 70;
+  }
+  
+  #x1 {
+    position: absolute;
+    width: 260px;
+    height: 100px;
+    background: #1A4341;
+    top: -16;
+    left: 70;
+  }
+  
+  #x1:after {
+    content: "";
+    position: absolute;
+    width: 260px;
+    height: 100px;
+    background: #1A4341;
+    top: 200;
+  }
+  
+  #x2 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background: #998235;
+    top: 34;
+    left: 100;
+    border-radius: 90%;
+  }
+  
+  #x2:before {
+    content: "";
+    position: absolute;
+    width: 260px;
+    height: 20px;
+    background: #1A4341;
+    top: 30;
+  }
+  
+  #x2:after {
+    content: "";
+    position: absolute;
+    width: 260px;
+    height: 20px;
+    background: #1A4341;
+    top: 150;
+  }
+  
+  #x3 {
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    background: #F3AC3C;
+    top: 84;
+    left: 100;
+  }
+  
+  #x3:before {
+    content: "";
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    background: #F3AC3C;
+    top: 40;
+  }
+  
+  #x3:after {
+    content: "";
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    background: #F3AC3C;
+    top: 80;
+  }
+</style>
