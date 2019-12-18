@@ -54,6 +54,9 @@
 ![alt-текст](https://cssbattle.dev/targets/18.png "Matrix")
 
 ## Battle #3 - Cursor
+#### Target #19 - Cube
+![alt-текст](https://cssbattle.dev/targets/19.png "Cube")
+
 #### Target #20 - Ticket
 ![alt-текст](https://cssbattle.dev/targets/20.png "Ticket")
 
