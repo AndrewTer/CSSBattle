@@ -151,5 +151,6 @@
 #### Target #47 - Corona Virus
 ![alt-текст](https://cssbattle.dev/targets/47.png "Corona Virus")
 
-
+#### Target #48 - Wash Your Hands
+![alt-текст](https://cssbattle.dev/targets/48.png "Wash Your Hands")
 
