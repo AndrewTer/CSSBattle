@@ -154,3 +154,6 @@
 #### Target #48 - Wash Your Hands
 ![alt-текст](https://cssbattle.dev/targets/48.png "Wash Your Hands")
 
+#### Target #49 - Stay At Home
+![alt-текст](https://cssbattle.dev/targets/49.png "Stay At Home")
+
