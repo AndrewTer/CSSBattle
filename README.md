@@ -147,7 +147,9 @@
 #### Target #46 - Mountains
 ![alt-текст](https://cssbattle.dev/targets/46.png "Mountains")
 
-
+## Battle #10 - Block
+#### Target #47 - Corona Virus
+![alt-текст](https://cssbattle.dev/targets/47.png "Corona Virus")
 
 
 
