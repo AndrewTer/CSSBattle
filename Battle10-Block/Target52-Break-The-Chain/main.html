@@ -1,0 +1,119 @@
+<p class='a b c' id='x'></p>
+<p class='a c' id='y'></p>
+<p class='a b c' id='z'></p>
+<p class='a' id='k'></p>
+<p class='a' id='l'></p>
+<p class='a' id='m'></p>
+<p class='a' id='n'></p>
+
+<style>
+  * {
+    background: #6592CF;
+  }
+  
+  .a {
+    background: #EEB850;
+    border-radius: 90%;
+  }
+  
+  .a:before {
+    content: '';
+    position: absolute;
+    top: 130;
+    width: 20px;
+    height: 20px;
+    background: #243D83;
+    border-radius: 90%;
+  }
+  
+  .a:after {
+    content: '';
+    position: absolute;
+    background: #243D83;
+    width: 10px;
+    height: 50px;
+  }
+  
+  .b {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .c:after {
+    top: 140;
+  }
+  
+  #x {
+    margin: 120 0 0 22;
+  }
+  
+  #y {
+    width: 60px;
+    height: 60px;
+    margin: -60 0 0 57;
+  }
+  
+  #z {
+    margin: -40 0 0 112;
+  }
+  
+  #x:before {
+    left: 40;
+  }
+  
+  #y:before {
+    left: 85;
+  }
+  
+  #z:before {
+    left: 130;
+  }
+  
+  #x:after {
+    left: 45;
+  }
+  
+  #y:after {
+    left: 90;
+  }
+  
+  #z:after {
+    left: 135;
+  }
+  
+  #k:before {
+    left: 205;
+  }
+  
+  #k:after {
+    left: 210;
+    top: 140;
+  }
+  
+  #l:before {
+    left: 250;
+  }
+  
+  #l:after {
+    left: 255;
+    top: 140;
+  }
+  
+  #m:before {
+    left: 295;
+  }
+  
+  #m:after {
+    left: 300;
+    top: 140;
+  }
+  
+  #n:before {
+    left: 340;
+  }
+  
+  #n:after {
+    left: 345;
+    top: 140;
+  }
+</style>
