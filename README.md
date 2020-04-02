@@ -157,3 +157,14 @@
 #### Target #49 - Stay At Home
 ![alt-текст](https://cssbattle.dev/targets/49.png "Stay At Home")
 
+#### Target #52 - Break The Chain
+![alt-текст](https://cssbattle.dev/targets/52.png "Break The Chain")
+
+
+
+
+
+
+
+
+
