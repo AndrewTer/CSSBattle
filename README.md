@@ -157,6 +157,9 @@
 #### Target #49 - Stay At Home
 ![alt-текст](https://cssbattle.dev/targets/49.png "Stay At Home")
 
+#### Target #51 - Wear A Mask
+![alt-текст](https://cssbattle.dev/targets/51.png "Wear A Mask")
+
 #### Target #52 - Break The Chain
 ![alt-текст](https://cssbattle.dev/targets/52.png "Break The Chain")
 
