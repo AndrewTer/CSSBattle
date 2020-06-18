@@ -1,0 +1,45 @@
+<p id='x'></p><p id='y'></p>
+<style>
+  * {
+    background: #191919;
+    margin: 0;
+  }
+  
+  #x {
+    width: 50px;
+    height: 100px;
+    margin: 50 200;
+    border-radius: 0 100% 100% 0 / 0 50% 50% 0;
+    background: #4F77FF;
+  }
+  
+  #x:after {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 100px;
+    top: 150;
+    left: 150;
+    background: #4F77FF;
+    border-radius: 100% 0 0 100% / 50% 0 0 50%;
+  }
+  
+  #y {
+    width: 100px;
+    height: 50px;
+    margin: -100 100;
+    border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+    background: #F9E492;
+  }
+  
+  #y:after {
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 150;
+    left: 200;
+    background: #F9E492;
+    border-radius: 0 0 50% 50% / 0 0 100% 100%;
+  }
+</style>
