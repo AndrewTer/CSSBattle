@@ -166,7 +166,9 @@
 #### Target #52 - Break The Chain
 ![alt-текст](https://cssbattle.dev/targets/52.png "Break The Chain")
 
-
+## Battle #11 - Overflow
+#### Target #53 - Pastel Logo
+![alt-текст](https://cssbattle.dev/targets/53.png "Pastel Logo")
 
 
 
