@@ -170,8 +170,8 @@
 #### Target #53 - Pastel Logo
 ![alt-текст](https://cssbattle.dev/targets/53.png "Pastel Logo")
 
-
-
+#### Target #55 - Windmill
+![alt-текст](https://cssbattle.dev/targets/55.png "Windmill")
 
 
 
