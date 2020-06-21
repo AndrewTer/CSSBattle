@@ -1,11 +1,11 @@
-<p id='x'></p><p id='y'></p>
+<p x><p y>
 <style>
   * {
     background: #191919;
     margin: 0;
   }
   
-  #x {
+  p[x] {
     width: 50px;
     height: 100px;
     margin: 50 200;
@@ -13,7 +13,7 @@
     background: #4F77FF;
   }
   
-  #x:after {
+  p[x]:after {
     content: '';
     position: absolute;
     width: 50px;
@@ -24,7 +24,7 @@
     border-radius: 100% 0 0 100% / 50% 0 0 50%;
   }
   
-  #y {
+  p[y] {
     width: 100px;
     height: 50px;
     margin: -100 100;
@@ -32,7 +32,7 @@
     background: #F9E492;
   }
   
-  #y:after {
+  p[y]:after {
     content: '';
     position: absolute;
     width: 100px;
