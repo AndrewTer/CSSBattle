@@ -1,4 +1,4 @@
-<div><p id='x'></p><p id='y'></p></div>
+<div><p x><p y></div>
 <style>
   * {
     background: #191919;
@@ -24,7 +24,7 @@
     border-radius: 0 0 5vw 5vw;
   }
   
-  #x {
+  p[x] {
     position: fixed;
     width: 40px;
     height: 40px;
@@ -34,7 +34,7 @@
     border-radius: 100%;
   }
   
-  #x:before {
+  p[x]:before {
     content: '';
     position: fixed;
     width: 40px;
@@ -45,7 +45,7 @@
     border-radius: 100%;
   }
   
-  #x:after {
+  p[x]:after {
     content: '';
     position: fixed;
     width: 20px;
@@ -56,7 +56,7 @@
     border-radius: 100%;
   }
   
-  #y {
+  p[y] {
     position: fixed;
     width: 10px;
     height: 20px;
@@ -66,7 +66,7 @@
     border-radius: 5vw;
   }
   
-  #y:before {
+  p[y]:before {
     content: '';
     position: fixed;
     width: 10px;
@@ -77,7 +77,7 @@
     border-radius: 5vw;
   }
   
-  #y:after {
+  p[y]:after {
     content: '';
     position: fixed;
     width: 10px;
