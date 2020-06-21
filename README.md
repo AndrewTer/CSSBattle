@@ -173,6 +173,7 @@
 #### Target #55 - Windmill
 ![alt-текст](https://cssbattle.dev/targets/55.png "Windmill")
 
-
+#### Target #56 - Skull
+![alt-текст](https://cssbattle.dev/targets/56.png "Skull")
 
 
