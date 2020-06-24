@@ -179,6 +179,9 @@
 #### Target #56 - Skull
 ![alt-текст](https://cssbattle.dev/targets/56.png "Skull")
 
+#### Target #57 - Pillars
+![alt-текст](https://cssbattle.dev/targets/57.png "Pillars")
+
 #### Target #58 - Rose
 ![alt-текст](https://cssbattle.dev/targets/58.png "Rose")
 
