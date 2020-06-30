@@ -188,5 +188,8 @@
 #### Target #59 - Earth
 ![alt-текст](https://cssbattle.dev/targets/59.png "Earth")
 
+#### Target #60 - Evil Triangles
+![alt-текст](https://cssbattle.dev/targets/60.png "Evil Triangles")
+
 
 
