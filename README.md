@@ -185,7 +185,8 @@
 #### Target #58 - Rose
 ![alt-текст](https://cssbattle.dev/targets/58.png "Rose")
 
-
+#### Target #59 - Earth
+![alt-текст](https://cssbattle.dev/targets/59.png "Earth")
 
 
 
