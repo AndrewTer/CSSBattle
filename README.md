@@ -192,6 +192,9 @@
 ![alt-текст](https://cssbattle.dev/targets/60.png "Evil Triangles")
 
 ## Battle #12 - Blend
+#### Target #62 - Sunset
+![alt-текст](https://cssbattle.dev/targets/62.png "Sunset")
+
 #### Target #63 - Command Key
 ![alt-текст](https://cssbattle.dev/targets/63.png "Command Key")
 
