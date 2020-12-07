@@ -1,0 +1,71 @@
+<p x><p y><p z>
+<style>
+  * {
+    background: #191919;  
+  }
+  
+  p[x] {
+    width: 80px;
+    height: 70px;
+    margin: 96 142;
+    border: 10px solid #5DBCF9;
+  }
+  
+  p[x]:before {
+    content: '';
+    position: fixed;
+    width: 30px;
+    height: 20px;
+    margin: -40 15;
+    border: 10px solid #5DBCF9;
+  }
+  
+  p[y] {
+    content: '';
+    position: fixed;
+    width: 170;
+    height: 140;
+    margin: -150 105;
+    clip-path: polygon(30% 0%, 80% 29%, 80% 70%, 30% 100%, 5% 50%);
+    transform: rotate(90deg);
+    background: #5DBCF9;
+  }
+  
+  p[y]:before {
+    content: '';
+    position: fixed;
+    width: 145;
+    height: 115;
+    margin: 12 12;
+    clip-path: polygon(30% 0%, 80% 29%, 80% 70%, 30% 100%, 5% 50%);
+    background: #191919;
+  }
+  
+  p[y]:after {
+    content: '';
+    position: fixed;
+    width: 150px;
+    height: 10px;
+    margin: 64 0;
+    background: #5DBCF9;
+  }
+  
+  p[z] {
+    content: '';
+    position: fixed;
+    width: 110px;
+    height: 10px;
+    margin: -88 107;
+    border: 30px solid #191919;
+    background: #5DBCF9;
+  }
+  
+  p[z]:after {
+    content: '';
+    position: fixed;
+    width: 200px;
+    height: 10px;
+    margin: -20 -45;
+    background: #5DBCF9;
+  }
+</style>
