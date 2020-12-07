@@ -192,6 +192,9 @@
 ![alt-текст](https://cssbattle.dev/targets/60.png "Evil Triangles")
 
 ## Battle #12 - Blend
+#### Target #61 - ImprovMX
+![alt-текст](https://cssbattle.dev/targets/61.png "ImprovMX")
+
 #### Target #62 - Sunset
 ![alt-текст](https://cssbattle.dev/targets/62.png "Sunset")
 
@@ -203,6 +206,4 @@
 
 #### Target #65 - Max Volume
 ![alt-текст](https://cssbattle.dev/targets/65.png "Max Volume")
-
-
 
