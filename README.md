@@ -207,3 +207,7 @@
 #### Target #65 - Max Volume
 ![alt-текст](https://cssbattle.dev/targets/65.png "Max Volume")
 
+#### Target #66 - Batmicky
+![alt-текст](https://cssbattle.dev/targets/66.png "Batmicky")
+
+
