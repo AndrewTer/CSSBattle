@@ -210,9 +210,10 @@
 #### Target #66 - Batmicky
 ![alt-текст](https://cssbattle.dev/targets/66.png "Batmicky")
 
+#### Target #67 - Video Reel
+![alt-текст](https://cssbattle.dev/targets/67.png "Video Reel")
+
 #### Target #68 - Bell
 ![alt-текст](https://cssbattle.dev/targets/68.png "Bell")
-
-
 
 
