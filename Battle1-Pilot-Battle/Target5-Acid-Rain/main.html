@@ -1,36 +1,27 @@
-<p></p>
+<p a><p b><p c>
 <style>
   * {
-    background: #0B2429;
+   background: #0B2429;  
   }
   
   p {
     width: 120px;
     height: 120px;
+    border-radius: 90% 0 90% 90%;
     background: #F3AC3C;
+  }
+  
+  p[a] {
+    margin: 30 192;
     border-radius: 90%;
-    margin: 30 0 0 192;
   }
   
-  p:after {
-    content: "";
-    width: 120px;
-    height: 120px;
-    background: #F3AC3C;
-    border-radius: 90% 0 90% 90%;
-    position: absolute;
-    top: 150px;
-    left: 80px;
-  }
-  
-  p:before {
-    content: "";
-    width: 120px;
-    height: 120px;
+  p[b] {
+    margin: -90 132;
     background: #998235;
-    border-radius: 90% 0 90% 90%;
-    position: absolute;
-    top: 90px;
-    left: 140px;
+  }
+  
+  p[c] {
+    margin: 30 72;
   }
 </style>
