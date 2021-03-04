@@ -216,4 +216,8 @@
 #### Target #68 - Bell
 ![alt-текст](https://cssbattle.dev/targets/68.png "Bell")
 
+## Battle #13 - Clip
+#### Target #70 - Froggy
+![alt-текст](https://cssbattle.dev/targets/70.png "Froggy")
+
 
