@@ -227,6 +227,7 @@
 #### Target #77 - Notes
 ![alt-текст](https://cssbattle.dev/targets/77.png "Notes")
 
-
+#### Target #80 - Piano
+![alt-текст](https://cssbattle.dev/targets/80.png "Piano")
 
 
