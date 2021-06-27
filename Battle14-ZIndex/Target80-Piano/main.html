@@ -1,0 +1,67 @@
+<p x><p y><p z><p l><p m>
+<style>
+  * {
+    background: #998235;  
+  }
+  
+  p[x] {
+    width: 180px;
+    height: 100px;
+    margin: 100 102;
+    border-radius: 10px;
+    background: #191919;
+  }
+  
+  p[y] {
+    margin: -175 107;
+  }
+  
+  p[z] {
+    margin: 105 157;
+  }
+  
+  p[l] {
+    margin: -175 207;
+  }
+  
+  p[m] {
+    margin: 105 257;
+  }
+  
+  p[y], p[z], p[l], p[m], p[y]:before, p[z]:before, p[l]:before {
+    width: 20px;
+    height: 70px;
+    border-radius: 5px;
+    background: #FFFFFF;
+  }
+  
+  p[y]:before, p[z]:before, p[l]:before {
+    content: '';
+    position: fixed;
+    margin: 0 25;
+  }
+  
+  p[x]:before, p[y]:after, p[z]:after, p[l]:after, p[x]:after {
+    content: '';
+    position: fixed;
+    width: 15px;
+    height: 35px;
+    margin: 0 15;
+    background: #191919;
+  }
+  
+  p[x]:before {
+    margin: 25 95;
+    z-index: 1;
+  }
+  
+  p[x]:after {
+    margin: 25 145;
+    z-index: 1;
+  }
+  
+  p[z]:after {
+    margin: 0 -10;
+  }
+  
+</style>
