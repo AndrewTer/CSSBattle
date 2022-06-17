@@ -239,5 +239,8 @@
 ![alt-текст](https://cssbattle.dev/targets/97.png "Snowman")
 
 ## Battle #19 - Spacing
+#### Target #110 - Sunrays
+![alt-текст](https://cssbattle.dev/targets/110.png "Sunrays")
+
 #### Target #111 - Rain Drops
 ![alt-текст](https://cssbattle.dev/targets/111.png "Rain Drops")
