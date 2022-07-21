@@ -238,6 +238,9 @@
 #### Target #97 - Snowman
 ![alt-текст](https://cssbattle.dev/targets/97.png "Snowman")
 
+#### Target #99 - Gift Box
+![alt-текст](https://cssbattle.dev/targets/99.png "Gift Box")
+
 ## Battle #19 - Spacing
 #### Target #109 - Curtain
 ![alt-текст](https://cssbattle.dev/targets/109.png "Curtain")
