@@ -254,6 +254,9 @@
 #### Target #113 - Black Light
 ![alt-текст](https://cssbattle.dev/targets/113.png "Black Light")
 
+#### Target #116 - Headphones
+![alt-текст](https://cssbattle.dev/targets/116.png "Headphones")
+
 ## Battle #20 - Hover
 #### Target #118 - Donkey Kong
 ![alt-текст](https://cssbattle.dev/targets/118.png "Donkey Kong")
