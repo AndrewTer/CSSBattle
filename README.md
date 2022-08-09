@@ -220,6 +220,9 @@
 #### Target #70 - Froggy
 ![alt-текст](https://cssbattle.dev/targets/70.png "Froggy")
 
+#### Target #75 - Hippo
+![alt-текст](https://cssbattle.dev/targets/75.png "Hippo")
+
 #### Target #76 - Beeee
 ![alt-текст](https://cssbattle.dev/targets/76.png "Beeee")
 
