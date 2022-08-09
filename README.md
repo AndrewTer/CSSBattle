@@ -254,6 +254,9 @@
 #### Target #113 - Black Light
 ![alt-текст](https://cssbattle.dev/targets/113.png "Black Light")
 
+#### Target #115 - Droplet
+![alt-текст](https://cssbattle.dev/targets/115.png "Droplet")
+
 #### Target #116 - Headphones
 ![alt-текст](https://cssbattle.dev/targets/116.png "Headphones")
 
