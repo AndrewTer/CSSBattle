@@ -254,6 +254,9 @@
 #### Target #113 - Black Light
 ![alt-текст](https://cssbattle.dev/targets/113.png "Black Light")
 
+#### Target #114 - Negative Box
+![alt-текст](https://cssbattle.dev/targets/114.png "Negative Box")
+
 #### Target #115 - Droplet
 ![alt-текст](https://cssbattle.dev/targets/115.png "Droplet")
 
