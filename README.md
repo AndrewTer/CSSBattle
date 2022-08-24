@@ -234,6 +234,9 @@
 ![alt-текст](https://cssbattle.dev/targets/80.png "Piano")
 
 ## Battle #15 - Filter
+#### Target #82 - Diamond Cut
+![alt-текст](https://cssbattle.dev/targets/82.png "Diamond Cut")
+
 #### Target #84 - Junction
 ![alt-текст](https://cssbattle.dev/targets/84.png "Junction")
 
