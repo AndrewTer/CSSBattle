@@ -233,6 +233,10 @@
 #### Target #80 - Piano
 ![alt-текст](https://cssbattle.dev/targets/80.png "Piano")
 
+## Battle #15 - Filter
+#### Target #86 - Stairway
+![alt-текст](https://cssbattle.dev/targets/86.png "Stairway")
+
 ## Battle #16 - Aspect
 #### Target #90 - Eclipse
 ![alt-текст](https://cssbattle.dev/targets/90.png "Eclipse")
