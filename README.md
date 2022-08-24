@@ -270,5 +270,8 @@
 #### Target #118 - Donkey Kong
 ![alt-текст](https://cssbattle.dev/targets/118.png "Donkey Kong")
 
+#### Target #119 - Pacman
+![alt-текст](https://cssbattle.dev/targets/119.png "Pacman")
+
 #### Target #121 - Duck Hunt
 ![alt-текст](https://cssbattle.dev/targets/121.png "Duck Hunt")
