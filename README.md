@@ -234,6 +234,9 @@
 ![alt-текст](https://cssbattle.dev/targets/80.png "Piano")
 
 ## Battle #15 - Filter
+#### Target #81 - Odoo
+![alt-текст](https://cssbattle.dev/targets/81.png "Odoo")
+
 #### Target #82 - Diamond Cut
 ![alt-текст](https://cssbattle.dev/targets/82.png "Diamond Cut")
 
