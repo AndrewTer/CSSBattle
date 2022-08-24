@@ -243,6 +243,9 @@
 #### Target #84 - Junction
 ![alt-текст](https://cssbattle.dev/targets/84.png "Junction")
 
+#### Target #85 - Pythagoras
+![alt-текст](https://cssbattle.dev/targets/85.png "Pythagoras")
+
 #### Target #86 - Stairway
 ![alt-текст](https://cssbattle.dev/targets/86.png "Stairway")
 
