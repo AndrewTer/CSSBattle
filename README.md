@@ -289,5 +289,8 @@
 #### Target #119 - Pacman
 ![alt-текст](https://cssbattle.dev/targets/119.png "Pacman")
 
+#### Target #120 - Tank
+![alt-текст](https://cssbattle.dev/targets/120.png "Tank")
+
 #### Target #121 - Duck Hunt
 ![alt-текст](https://cssbattle.dev/targets/121.png "Duck Hunt")
