@@ -294,3 +294,7 @@
 
 #### Target #121 - Duck Hunt
 ![alt-текст](https://cssbattle.dev/targets/121.png "Duck Hunt")
+
+## Battle #21 - Rotate
+#### Target #127 - Letter I
+![alt-текст](https://cssbattle.dev/targets/127.png "Letter I")
