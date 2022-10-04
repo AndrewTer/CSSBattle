@@ -298,3 +298,6 @@
 ## Battle #21 - Rotate
 #### Target #127 - Letter I
 ![alt-текст](https://cssbattle.dev/targets/127.png "Letter I")
+
+#### Target #127 - Letter O
+![alt-текст](https://cssbattle.dev/targets/130.png "Letter O")
