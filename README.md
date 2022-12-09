@@ -299,7 +299,10 @@
 #### Target #127 - Letter I
 ![alt-текст](https://cssbattle.dev/targets/127.png "Letter I")
 
-#### Target #127 - Letter O
+#### Target #129 - Letter B
+![alt-текст](https://cssbattle.dev/targets/129.png "Letter B")
+
+#### Target #130 - Letter O
 ![alt-текст](https://cssbattle.dev/targets/130.png "Letter O")
 
 ## Battle #22 - Grid
