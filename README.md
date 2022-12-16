@@ -308,6 +308,9 @@
 #### Target #130 - Letter O
 ![alt-текст](https://cssbattle.dev/targets/130.png "Letter O")
 
+#### Target #132 - Letter S
+![alt-текст](https://cssbattle.dev/targets/132.png "Letter S")
+
 ## Battle #22 - Grid
 #### Target #134 - Wig
 ![alt-текст](https://cssbattle.dev/targets/134.png "Wig")
