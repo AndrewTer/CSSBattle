@@ -323,3 +323,6 @@
 
 #### Target #138 - Lotus
 ![alt-текст](https://cssbattle.dev/targets/138.png "Lotus")
+
+#### Target #139 - Lamp
+![alt-текст](https://cssbattle.dev/targets/139.png "Lamp")
