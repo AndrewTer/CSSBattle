@@ -326,3 +326,6 @@
 
 #### Target #139 - Lamp
 ![alt-текст](https://cssbattle.dev/targets/139.png "Lamp")
+
+#### Target #140 - Eclipse
+![alt-текст](https://cssbattle.dev/targets/140.png "Eclipse")
