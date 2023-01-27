@@ -256,6 +256,9 @@
 #### Target #91 - Reflection
 ![alt-текст](https://cssbattle.dev/targets/91.png "Reflection")
 
+#### Target #96 - Mandala
+![alt-текст](https://cssbattle.dev/targets/96.png "Mandala")
+
 ## Battle #17 - Christmas
 #### Target #97 - Snowman
 ![alt-текст](https://cssbattle.dev/targets/97.png "Snowman")
