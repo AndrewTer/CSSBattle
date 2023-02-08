@@ -240,6 +240,9 @@
 #### Target #82 - Diamond Cut
 ![alt-текст](https://cssbattle.dev/targets/82.png "Diamond Cut")
 
+#### Target #83 - Supernova
+![alt-текст](https://cssbattle.dev/targets/83.png "Supernova")
+
 #### Target #84 - Junction
 ![alt-текст](https://cssbattle.dev/targets/84.png "Junction")
 
