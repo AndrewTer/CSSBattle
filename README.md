@@ -338,3 +338,7 @@
 
 #### Target #140 - Eclipse
 ![alt-текст](https://cssbattle.dev/targets/140.png "Eclipse")
+
+## Battle #23 - Contain
+#### Target #142 - Curtains
+![alt-текст](https://cssbattle.dev/targets/142.png "Curtains")
