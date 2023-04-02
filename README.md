@@ -345,3 +345,7 @@
 
 #### Target #142 - Curtains
 ![alt-текст](https://cssbattle.dev/targets/142.png "Curtains")
+
+## Battle #24 - Offset
+#### Target #143 - Simply Circle
+![alt-текст](https://cssbattle.dev/targets/143.png "Simply Circle")
