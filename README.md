@@ -349,3 +349,7 @@
 ## Battle #24 - Offset
 #### Target #143 - Simply Circle
 ![alt-текст](https://cssbattle.dev/targets/143.png "Simply Circle")
+
+## Battle #27 - Relative
+#### Target #167 - React India
+![alt-текст](https://cssbattle.dev/targets/167.png "React India")
