@@ -350,6 +350,10 @@
 #### Target #143 - Simply Circle
 ![alt-текст](https://cssbattle.dev/targets/143.png "Simply Circle")
 
+## Battle #26 - Initial
+#### Target #161 - Converge
+![alt-текст](https://cssbattle.dev/targets/161.png "Converge")
+
 ## Battle #27 - Relative
 #### Target #167 - React India
 ![alt-текст](https://cssbattle.dev/targets/167.png "React India")
