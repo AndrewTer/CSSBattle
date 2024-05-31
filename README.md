@@ -351,6 +351,9 @@
 ![alt-текст](https://cssbattle.dev/targets/143.png "Simply Circle")
 
 ## Battle #26 - Initial
+#### Target #159 - Portal
+![alt-текст](https://cssbattle.dev/targets/159.png "Portal")
+
 #### Target #161 - Converge
 ![alt-текст](https://cssbattle.dev/targets/161.png "Converge")
 
