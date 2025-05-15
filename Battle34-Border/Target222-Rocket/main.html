@@ -1,0 +1,48 @@
+<p a><p b><p c><p d>
+<style>
+  * {
+    background: #B0E1FB;
+  }
+
+  p {
+    position: relative;
+  }
+
+  p::after {
+    content: '';
+    position: absolute;
+  }
+  
+  p[a]::after {
+    left: 127;
+    top: 126;
+    border: 65px solid transparent;
+    border-bottom: 61px solid #C15965;
+  }
+
+  p[b]::after {
+    width: 50px;
+    height: 180px;
+    left: 157;
+    top: 32;
+    background: #4B4D88;
+    border: 10px solid #B0E1FB;
+    border-radius: 40px;
+  }
+
+  p[c]::after {
+    left: 127;
+    top: 135;
+    border: 14px solid transparent;
+    border-right: 16px solid #4B4D88;
+    border-bottom: 13px solid #4B4D88;
+  }
+
+  p[d]::after {
+    left: 227;
+    top: 135;
+    border: 14px solid transparent;
+    border-bottom: 13px solid #4B4D88;
+    border-left: 16px solid #4B4D88;
+  }
+</style>
