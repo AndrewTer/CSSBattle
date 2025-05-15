@@ -364,3 +364,6 @@
 ## Battle #34 - Border
 #### Target #222 - Rocket
 ![alt-текст](https://cssbattle.dev/targets/222.png "Rocket")
+
+#### Target #226 - Bond
+![alt-текст](https://cssbattle.dev/targets/226.png "Bond")
