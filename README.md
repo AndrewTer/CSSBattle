@@ -360,3 +360,7 @@
 ## Battle #27 - Relative
 #### Target #167 - React India
 ![alt-текст](https://cssbattle.dev/targets/167.png "React India")
+
+## Battle #34 - Border
+#### Target #222 - Rocket
+![alt-текст](https://cssbattle.dev/targets/222.png "Rocket")
